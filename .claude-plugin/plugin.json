@@ -2,6 +2,6 @@
   "name": "cm-dev",
   "display_name": "HarmonyOS Dev",
   "description": "HarmonyOS ArkTS 开发工作流 - 基于 ark-uikit UI 组件库开发。包含 Spec/Plan/TDD/Fix/Verify 子工作流。",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "author": "cangming"
 }
